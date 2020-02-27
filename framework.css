@@ -15,6 +15,7 @@
 }
 [class*="col-"] {
 float: left;
+padding:5px;
 }
 .clear-xs, .clear-md, .clear-lg{
   clear: both;
