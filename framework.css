@@ -104,7 +104,7 @@ float: left;
 
 
 /*VESIONE TABLET da 769px a 991px*/
-@media screen and (min-width: 769px,max-width:992px){
+@media screen and (min-width: 769px) and (max-width:992px){
   .clear-md{
     display: block;
   }

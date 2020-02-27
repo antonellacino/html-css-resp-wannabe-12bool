@@ -4,23 +4,13 @@
 .margin_bottom{
   margin-bottom: 10px;
 }
-h1{
-  margin-top: 20px;
-  color: #095b5b;
-  font-size: 40px;
-  margin-bottom: 30px;
-}
-h2{
-  color: #095b5b;
-  font-size: 30px;
-}
-p{
-  font-size: 20px;
-}
+
 img{
-  width: 200px;
-  height:180px;
+  height:200px;
 }
-.celeste{
-  color: #095b5b;
+
+@media screen and (min-width:768px) and (max-width:992px){
+  img{
+    height: 150px;
+  }
 }
